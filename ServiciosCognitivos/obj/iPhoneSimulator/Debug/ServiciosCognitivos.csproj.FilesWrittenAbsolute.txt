@@ -1,0 +1,14 @@
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/bin/iPhoneSimulator/Debug/ServiciosCognitivos.pdb
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/bin/iPhoneSimulator/Debug/ServiciosCognitivos.exe
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/obj/iPhoneSimulator/Debug/ServiciosCognitivos.exe
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/obj/iPhoneSimulator/Debug/ServiciosCognitivos.pdb
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/bin/iPhoneSimulator/Debug/Microsoft.ProjectOxford.Vision.dll
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/bin/iPhoneSimulator/Debug/Microsoft.ProjectOxford.Common.dll
+/Users/rodolfocampos/Projects/ServiciosCognitivos/ServiciosCognitivos/bin/iPhoneSimulator/Debug/Microsoft.ProjectOxford.Emotion.dll

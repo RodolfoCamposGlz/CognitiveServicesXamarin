@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AAF23697-0881-459F-91F8-A8F666058933}|Default">
+  <MonoDevelop.Ide.ItemProperties.ServiciosCognitivos automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.12AAE1CE-3996-49C3-B895-1CFC4F1F011A" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiciosCognitivos/ViewController.cs">
+    <Files>
+      <File FileName="ServiciosCognitivos/ViewController.cs" Line="104" Column="39" />
+      <File FileName="ServiciosCognitivos/Main.cs" Line="12" Column="1" />
+      <File FileName="ServiciosCognitivos/Info.plist" />
+      <File FileName="ServiciosCognitivos/packages.config" Line="10" Column="12" />
+      <File FileName="ServiciosCognitivos/ViewController.designer.cs" Line="67" Column="1" />
+      <File FileName="ServiciosCognitivos/AppDelegate.cs" Line="43" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServiciosCognitivos" expanded="True">
+            <Node name="ServiciosCognitivos" expanded="True">
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
